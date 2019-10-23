@@ -11,3 +11,7 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 /.idea
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/git_toolbox_prj.xml
+.idea/task.iml
