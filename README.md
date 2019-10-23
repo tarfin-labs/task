@@ -14,5 +14,3 @@ Testlerin geçmesini sağlamak için:
 - `Resource`'lar
 
 yazmanız gerekebilir.
-
-Not: Normal şartlarda testler üzerinde değişiklik yapmanız gerekmiyor.
