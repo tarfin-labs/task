@@ -6,7 +6,7 @@ Temel düzeyle bir *TODO* uygulaması olarak düşünebileceğiniz bu projede `U
 
 Testlerin geçmesini sağlamak için:
 
-- `Model`ler
+- `Model`'ler
 - `Migration`'lar
 - `Factory`'ler
 - `Controller`'lar
